@@ -1,0 +1,39 @@
+<!DOCTYPE html>  
+
+<html>  
+   <head> 
+      <meta charset = "utf-8"> 
+      <title>...</title> 
+   </head> 
+  
+   <body> 
+      <header role = "banner"> 
+         <h1>Car Dealerships</h1> 
+         <p>These are various car dealerships in Botswana</p> 
+      </header> 
+   
+      <nav> 
+         <ul> 
+            <li><a href = "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiZw6yilLmEAxUnV0EAHRvlAJ8QFnoECDYQAQ&url=https%3A%2F%2Fwww.naledimotors.co.bw%2F&usg=AOvVaw1lh0OLYpuEsei5E1Tl5KaZ&opi=89978449">Naledi Motors</a></li> 
+            <li><a href = "https://www.tutorialspoint.com/css">HiTech Cars</a></li> 
+            <li><a href = "https://www.tutorialspoint.com/javascript">
+            JavaScript Tutorial</a></li> 
+         </ul> 
+      </nav> 
+   
+      <article> 
+         <section> 
+            <p>Once article can have multiple sections</p>
+         </section> 
+      </article> 
+      
+      <aside> 
+         <p>This is  aside part of the web page</p> 
+      </aside> 
+   
+      <footer> 
+         <p>Created by Kelly Modise</a></p> 
+      </footer> 
+   
+   </body> 
+</html>
